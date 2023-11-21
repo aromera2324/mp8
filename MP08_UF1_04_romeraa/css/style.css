@@ -1,0 +1,196 @@
+body {
+font-family: sans-serif;
+}
+
+.menu {
+    height: 168px;
+}
+
+.contactes {
+    height: 195px;
+}
+
+.contingut {
+    background-color: #1351d8;
+}
+
+.centrador {
+    overflow: hidden;
+    width: 1665px;
+    margin: 0 auto;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+    background-color: greenyellow;
+    width: 82px;
+    height: 82px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 200px;
+}
+
+ul {
+    width: 1060px;
+    font-size: 10px;
+    margin: auto;
+    padding: 36px;
+}
+
+#contacte01 {
+    background-image: url(../img/ifpagram_07.png);
+}
+
+#contacte01:hover {
+    background-size: 200%;
+    background-position: center;
+}
+
+#contacte02 {
+    background-image: url(../img/ifpagram_09.png);
+}
+
+#contacte03 {
+    background-image: url(../img/ifpagram_07.png);
+}
+
+#contacte04 {
+    background-image: url(../img/ifpagram_09.png);
+}
+
+#contacte05 {
+    background-image: url(../img/ifpagram_07.png);
+}
+
+#contacte06 {
+    background-image: url(../img/ifpagram_09.png);
+}
+
+#contacte07 {
+    background-image: url(../img/ifpagram_07.png);
+}
+
+#contacte08 {
+    background-image: url(../img/ifpagram_09.png);
+}
+
+#contacte09 {
+    background-image: url(../img/ifpagram_07.png);
+}
+
+#contacte10 {
+    background-image: url(../img/ifpagram_09.png);
+}
+
+.logo {
+    width: 310px;
+    height: 50px;
+    float: left;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    padding: 10px;
+
+}
+
+.nav {
+    width: 336px;
+    height: 50px;
+    margin: auto;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+.user {
+    width: 164px;
+    height: 50px;
+    float: right;
+    background-size: 80px;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+.nav ul li {
+    width: 42px;
+    height: 42px;
+    margin: 4px;
+}
+
+.nav ul {
+    height: 50px;
+    width: 210px;
+    padding: 0%;
+    margin: auto;
+}
+
+.home {
+background-image: url(../img/ifpagram_04.png);
+background-position: -9px;
+}
+
+.search {
+background-image: url(../img/ifpagram_06.png);
+background-position: -9px;
+}
+
+.tv {
+background-image: url(../img/ifpagram_10.png);
+background-position: -9px;
+}
+
+.like {
+background-image: url(../img/ifpagram_11.png);
+background-position: -9px;
+}
+
+.post {
+    width: 545px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+
+.post img {
+    width: 535px;
+}
+    
+.post div {
+    width: 100px;
+}
+
+.post .postejador {
+    float: left;
+}
+
+.post .postejador img {
+    width: 30px;
+    border-radius: 50%;
+    float: left;
+}
+
+.post .reaccions {
+    width: 170px;
+    float: right;
+}
+
+.post h5 {
+    height: 25px;
+    line-height: 25px;
+}
+
+.post h6 {
+    height: 25px;
+}
+
+a:link {
+    opacity: 100%;
+}
+
+a:hover {
+    opacity: 60%;
+    background-size: 200%;
+}
