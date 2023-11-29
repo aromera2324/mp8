@@ -1,0 +1,107 @@
+body {
+    background-image: url("img/scale.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+ul a {
+    display: block;
+    width: 10rem;
+    height: 15rem;
+    background: gold;
+    border-radius: 10%;
+    float: left;
+    margin: 0.7rem;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5rem;
+}
+
+ul a:hover {
+    opacity: 50%;
+    border-radius: 20%;
+}
+
+
+a {
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    margin-top: 16rem;
+    list-style: none;
+    color: white;
+}
+
+#a01{
+    background-image: url("img/mickey\ y\ minnie.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a02{
+    background-image: url("img/Simba\ y\ Nala.jpeg");
+    background-size: 160%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a03{
+    background-image: url("img/Ralph\ y\ Vanellope.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a04{
+    background-image: url("img/Ariel\ y\ Eric.jpg");
+    background-size: 190%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a05{
+    background-image: url("img/Blancanieves.jpeg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a06{
+    background-image: url("img/Anna\ y\ Elsa.jpeg");
+    background-size: 170%;
+    background-repeat: no-repeat;
+    background-position: 55%;
+    background-position-y: 25%;
+}
+
+#a07{
+    background-image: url("img/Pinocho.jpeg");
+    background-size: 270%;
+    background-repeat: no-repeat;
+    background-position: 55%;
+}
+
+#a08{
+    background-image: url("img/La\ Bella\ Durmiente.jpg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: 55%;
+    background-position-y: 25%;
+}
+
+#a09{
+    background-image: url("img/La\ Bella\ y\ la\ Bestia.jpg");
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
+
+#a10{
+    background-image: url("img/Aladdin.jpg");
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: 45%;
+}
